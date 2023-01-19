@@ -1,5 +1,4 @@
 1.How much is the current memory capacity of a canister?
-
 Answer:
 Wasm heap: 4GB
 Stable mem: 32 GB or 48 GB

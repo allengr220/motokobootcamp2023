@@ -1,4 +1,4 @@
-1. 
+1.
 actor {
   var product : Nat = 0;
 
