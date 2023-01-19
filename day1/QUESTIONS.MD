@@ -2,8 +2,9 @@
 
 Answer:
 Wasm heap: 4GB
-Stable mem: 32 GB
+Stable mem: 32 GB or 48 GB
 according to: https://forum.dfinity.org/t/32-gb-canister-storage/16452
+or:https://forum.dfinity.org/t/increased-canister-smart-contract-memory/6148/139
 
 2. What is the issue with the following code sample?
 actor {
